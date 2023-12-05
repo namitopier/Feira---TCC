@@ -35,7 +35,7 @@ The Blender Recommender System is an innovative project designed to enhance the 
 
 The architecture can be checked in the image below:
 
-![](2023-11-30-16-09-36.png)
+![](LoggerArchitecture.png)
 
 ### Modal Operator Component
 
